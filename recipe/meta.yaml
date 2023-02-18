@@ -1,5 +1,5 @@
 {% set name = "pytest-pretty" %}
-{% set version = "1.0.1" %}
+{% set version = "1.1.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pytest_pretty-{{ version }}.tar.gz
-  sha256: d5221cb69384d581b490edd15e22d607e00772e02e6a393292626c626ff1c075
+  sha256: 425e116c1ed10ce67eeb688f22d1bcb91ca58a97986026bf42c0717da80740b3
 
 build:
   noarch: python
