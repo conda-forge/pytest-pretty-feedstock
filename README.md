@@ -1,11 +1,11 @@
-About pytest-pretty
-===================
+About pytest-pretty-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-pretty-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/samuelcolvin/pytest-pretty
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-pretty-feedstock/blob/main/LICENSE.txt)
 
 Summary: Pytest plugin for pretty printing the test summary.
 
